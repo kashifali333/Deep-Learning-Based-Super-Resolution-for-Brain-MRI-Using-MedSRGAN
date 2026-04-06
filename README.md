@@ -2,13 +2,14 @@
 Deep Learning-Based Super-Resolution for Brain MRI Using MedSRGAN
 This repository contains the implementation of MedSRGAN, a deep learning-based super-resolution model for enhancing Brain MRI images. The model is based on the Residual Whole Map Attention Network (RWMAN) and a discriminator network, trained in an adversarial manner to generate high-resolution MRI scans.
 
-📌 Project Overview
+  📌 Project Overview
 The MedSRGAN framework consists of:
 
 Generator (RWMAN): A deep convolutional neural network with residual attention blocks to generate high-resolution MRI scans from low-resolution images.
 Discriminator: A convolutional network that distinguishes real high-resolution images from generated ones.
 Loss Functions: A combination of adversarial loss, perceptual loss, and SSIM-based structural loss.
-📂 Repository Structure
+
+  📂 Repository Structure
 MedSRGAN/
 
 data_pipeline.py # Preprocessing pipeline for data loading
@@ -25,7 +26,7 @@ notebooks/ # Jupyter notebooks for training & evaluation
 
 data/ # Folder to store dataset (not included in repo)
 
-🚀 Installation & Setup
+  🚀 Installation & Setup
 1️⃣ Clone the Repository
 git clone  cd Deep-Learning-Based-Super-Resolution-for-Brain-MRI-Using-MedSRGAN
 

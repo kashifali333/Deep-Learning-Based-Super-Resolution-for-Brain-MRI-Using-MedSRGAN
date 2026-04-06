@@ -41,3 +41,5 @@ Model_architecture
 Performance Metrics
 
 The model is evaluated using: • Peak Signal-to-Noise Ratio (PSNR) • Structural Similarity Index (SSIM) • Adversarial Loss & Perceptual Loss
+<img width="3465" height="3840" alt="image" src="https://github.com/user-attachments/assets/b8c9f0a9-c5ad-4d28-ab30-ed94cc2da9f5" />
+

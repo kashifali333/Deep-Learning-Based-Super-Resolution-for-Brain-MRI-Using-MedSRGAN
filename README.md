@@ -33,9 +33,16 @@ git clone https://github.com/kashifali333/Deep-Learning-Based-Super-Resolution-f
 
 Model Architecture
 
-Generator (RWMAN) • Initial Convolution • Residual Whole Map Attention Blocks • Upsampling layers • Final Convolution Layer
+  Generator (RWMAN) 
+• Initial Convolution 
+• Residual Whole Map Attention Blocks
+• Upsampling layers 
+• Final Convolution Layer
 
-Discriminator • Takes High-Resolution (HR) and Low-Resolution (LR) images as input • Passes through multiple convolutional blocks • Fully connected layers classify images as real or fake
+  Discriminator
+  • Takes High-Resolution (HR) and Low-Resolution (LR) images as input 
+  • Passes through multiple convolutional blocks 
+  • Fully connected layers classify images as real or fake
 
 Model_architecture
 

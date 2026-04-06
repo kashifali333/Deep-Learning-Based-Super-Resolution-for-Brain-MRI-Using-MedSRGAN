@@ -26,7 +26,8 @@ notebooks/ # Jupyter notebooks for training & evaluation
 
 data/ # Folder to store dataset (not included in repo)
 
-  🚀 Installation & Setup
+  🚀 Installation & Setup 
+  
 1️⃣ Clone the Repository
 git clone  cd Deep-Learning-Based-Super-Resolution-for-Brain-MRI-Using-MedSRGAN
 

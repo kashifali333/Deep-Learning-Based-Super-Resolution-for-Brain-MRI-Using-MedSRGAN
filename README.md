@@ -29,7 +29,7 @@ data/ # Folder to store dataset (not included in repo)
   🚀 Installation & Setup 
   
 1️⃣ Clone the Repository
-git clone  cd Deep-Learning-Based-Super-Resolution-for-Brain-MRI-Using-MedSRGAN
+git clone https://github.com/kashifali333/Deep-Learning-Based-Super-Resolution-for-Brain-MRI-Using-MedSRGAN cd Deep-Learning-Based-Super-Resolution-for-Brain-MRI-Using-MedSRGAN
 
 Model Architecture
 
